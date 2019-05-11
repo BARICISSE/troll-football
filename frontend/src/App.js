@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>SOCCER MEDIA</h1>
+      <h1>TROLL FOOTBALL</h1>
     </div>
   );
 }
